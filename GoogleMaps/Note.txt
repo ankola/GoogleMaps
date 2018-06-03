@@ -1,0 +1,3 @@
+install a POd 
+
+pod 'GoogleMaps'
